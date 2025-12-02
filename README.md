@@ -99,11 +99,17 @@ Para validar matrículas com a exceção personalizada CursoNaoEncontradoExcepti
 📁 Estrutura do Projeto
 src/
  ├── Curso.java
+ |
  ├── Aluno.java
+ |
  ├── Instrutor.java
+ |
  ├── Aula.java
+ |
  ├── Matricula.java
+ |
  ├── CursoNaoEncontradoException.java
+ |
  └── Main.java
 
 ▶️ Como Executar
