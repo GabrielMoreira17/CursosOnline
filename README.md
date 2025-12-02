@@ -110,7 +110,7 @@ src/
 
 Baixe o repositório:
 
-git clone https://github.com/seuusuario/cursos-online
+https://github.com/GabrielMoreira17/CursosOnline
 
 
 Compile os arquivos .java.
